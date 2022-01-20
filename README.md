@@ -1,5 +1,5 @@
 # kaggle
-This repo contains my work from Kaggle competitions.
+This repo contains my work for Kaggle competitions.
 
 **Directories:**
 - [Titanic](https://www.kaggle.com/c/titanic): Binary classification
